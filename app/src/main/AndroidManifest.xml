@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.momobites.prash.nepalivarnamaala">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--Letters, Vowels and Numbers-->
+        <activity
+            android:name=".a1_Letters_Words_Numbers.a1_menu_activity"
+            android:label="@string/category_letters_detail" />
+        <activity
+            android:name=".a1_Letters_Words_Numbers.b10_Main_Fragment"
+            android:label="@string/category_letters" />
+        <activity
+            android:name=".a1_Letters_Words_Numbers.b20_Main_Fragment"
+            android:label="@string/category_numbers" />
+        <activity
+            android:name=".a1_Letters_Words_Numbers.barhakhari.b30_12Sound_MainFragment"
+            android:label="@string/category_barhakhari" />
+
+        <!--Time, Place, Person-->
+        <activity
+            android:name=".a2_Time_Place_Person.a2_menu_activity"
+            android:label="@string/category_time_place_person" />
+        <activity
+            android:name=".a2_Time_Place_Person.b10_Time_MainFragment"
+            android:label="@string/category_time" />
+        <activity
+            android:name=".a2_Time_Place_Person.b20_Relation_MainFragment"
+            android:label="@string/category_relations" />
+        <activity
+            android:name=".a2_Time_Place_Person.b30_Places_MainFragment"
+            android:label="@string/category_places" />
+
+        <!--Food and Dining-->
+        <activity
+            android:name=".a3_Food_and_Dining.a3_menu_activity"
+            android:label="@string/category_food_and_dining" />
+        <activity
+            android:name=".a3_Food_and_Dining.b10_Food_MainFragment"
+            android:label="@string/category_food" />
+        <activity
+            android:name=".a3_Food_and_Dining.b20_Dining_MainFragment"
+            android:label="@string/category_dining" />
+
+        <!--Animals, Birds, Reptiles-->
+        <activity
+            android:name=".a4_Animals_Birds_Reptiles.a4_menu_activity"
+            android:label="@string/category_animals_birds_reptiles" />
+        <activity
+            android:name=".a4_Animals_Birds_Reptiles.b10_ABR_MainFragment"
+            android:label="@string/category_animals" />
+
+        <!--Activities of Daily Living-->
+        <activity
+            android:name=".a5_Activities_of_Daily_Living.b10_Phrases_MainFragment"
+            android:label="@string/category_phrases" />
+
+        <!--Others-->
+        <activity
+            android:name=".a6_Others.b10_Others_MainFragment"
+            android:label="@string/category_others" />
+
+
+
+
+
+    </application>
+
+</manifest>

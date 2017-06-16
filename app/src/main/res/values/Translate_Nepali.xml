@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Nepali Letter Consonants-->
+    <string name="nepali_letter_ka">ka</string>
+    <string name="nepali_letter_kha">kha</string>
+    <string name="nepali_letter_ga">ga</string>
+    <string name="nepali_letter_gha">gha</string>
+    <string name="nepali_letter_nga">nga</string>
+    <string name="nepali_letter_cha">cha</string>
+    <string name="nepali_letter_chha">chha</string>
+    <string name="nepali_letter_ja">ja</string>
+    <string name="nepali_letter_jha">jha</string>
+    <string name="nepali_letter_yna">yna</string>
+    <string name="nepali_letter_ta">ta</string>
+    <string name="nepali_letter_tha">tha</string>
+    <string name="nepali_letter_da">da</string>
+    <string name="nepali_letter_dha">dha</string>
+    <string name="nepali_letter_na">na</string>
+    <string name="nepali_letter_pa">pa</string>
+    <string name="nepali_letter_pha">pha</string>
+    <string name="nepali_letter_ba">ba</string>
+    <string name="nepali_letter_bha">bha</string>
+    <string name="nepali_letter_ma">ma</string>
+    <string name="nepali_letter_ya">ya</string>
+    <string name="nepali_letter_ra">ra</string>
+    <string name="nepali_letter_la">la</string>
+    <string name="nepali_letter_wa">wa</string>
+    <string name="nepali_letter_sa">sa</string>
+    <string name="nepali_letter_khha">khha</string>
+    <string name="nepali_letter_sha">sha</string>
+    <string name="nepali_letter_ha">ha</string>
+    <string name="nepali_letter_chyha">chyha</string>
+    <string name="nepali_letter_tra">tra</string>
+    <string name="nepali_letter_gyna">gyna</string>
+
+    <!--Nepali Letter Vowels-->
+    <string name="nepali_letter_a">a</string>
+    <string name="nepali_letter_aa">aa</string>
+    <string name="nepali_letter_i">i</string>
+    <string name="nepali_letter_ii">ii</string>
+    <string name="nepali_letter_u">उ</string>
+    <string name="nepali_letter_uu">ऊ</string>
+    <string name="nepali_letter_ae">ae</string>
+    <string name="nepali_letter_aye">aye</string>
+    <string name="nepali_letter_ao">ao</string>
+    <string name="nepali_letter_aou">aou</string>
+    <string name="nepali_letter_mm">mm</string>
+    <string name="nepali_letter_yhna">yhna</string>
+    <string name="nepali_letter_om">ॐ</string>
+    <string name="nepali_letter_ri">ri</string>
+
+    <!-- Nepali translation for Families -->
+    <string name="nepali_family_father">baba</string>
+    <string name="nepali_family_mother">aama</string>
+    <string name="nepali_family_husband">shriman</string>
+    <string name="nepali_family_wife">shrimati</string>
+    <string name="nepali_family_son">chhora</string>
+    <string name="nepali_family_daughter">chhori</string>
+    <string name="nepali_family_older_brother">dai</string>
+    <string name="nepali_family_younger_brother">bhai</string>
+    <string name="nepali_family_older_sister">didi</string>
+    <string name="nepali_family_younger_sister">bahini</string>
+    <string name="nepali_family_grandmother">hajur-aama</string>
+    <string name="nepali_family_grandfather">hajur-baba</string>
+    <string name="nepali_family_adopted_son">dharma-putra</string>
+    <string name="nepali_family_adopted_daughter">dharma-putri</string>
+
+    <!--Extended Relations-->
+    <string name="nepali_extended_relative">sambandhī</string>
+    <string name="nepali_extended_family_spouse_father">sasura</string>
+    <string name="nepali_extended_family_spouse_mother">saasu</string>
+    <string name="nepali_extended_family_son_in_law">jwain</string>
+    <string name="nepali_extended_family_daughter_in_law">buhari</string>
+    <string name="nepali_extended_family_father_younger_brother">kaka</string>
+    <string name="nepali_extended_family_father_younger_brother_wife">kaaki</string>
+    <string name="nepali_extended_family_father_older_brother">thulo buwa</string>
+    <string name="nepali_extended_family_father_older_brother_wife">thulo aama</string>
+    <string name="nepali_extended_family_maternal_uncle">mama</string>
+    <string name="nepali_extended_family_maternal_aunt">maiju</string>
+    <string name="nepali_extended_family_maternal_sister_older">thulo aama</string>
+    <string name="nepali_extended_family_maternal_sister_older_husband">thulo buwa</string>
+    <string name="nepali_extended_family_maternal_sister_younger">saanima</string>
+    <string name="nepali_extended_family_maternal_sister_younger_husband">saano buwa</string>
+    <string name="nepali_extended_family_wife_older_brother">jethan</string>
+    <string name="nepali_extended_family_wife_older_brother_wife">jethani</string>
+    <string name="nepali_extended_family_wife_younger_brother">saala</string>
+    <string name="nepali_extended_family_wife_younger_sister">saali</string>
+    <string name="nepali_extended_family_husband_younger_brother">dewar</string>
+    <string name="nepali_extended_family_husband_younger_brother_wife">dewarani</string>
+    <string name="nepali_extended_family_husband_younger_sister">nanda</string>
+    <string name="nepali_extended_family_older_sister_husband">bhinaju</string>
+    <string name="nepali_extended_brother_son">bhatījā</string>
+    <string name="nepali_extended_brother_daughter">bhatījī</string>
+    <string name="nepali_extended_sister_son">bhānjā</string>
+    <string name="nepali_extended_sister_daughter">bhānjī</string>
+
+    <!--Other Relations-->
+    <string name="nepali_other_relations_preceptor">guru</string>
+    <string name="nepali_other_relations_lecture">prādhyāpaka</string>
+    <string name="nepali_other_relations_teacher">adhyāpaka</string>
+    <string name="nepali_other_relations_teacher_male">guru ba</string>
+    <string name="nepali_other_relations_teacher_female">guru aama</string>
+    <string name="nepali_other_relations_student_male">chatra</string>
+    <string name="nepali_other_relations_student_female">chatraa</string>
+    <string name="nepali_other_relations_disciple">chēlā</string>
+    <string name="nepali_other_relations_friend">saathi</string>
+    <string name="nepali_other_relations_guest">pāhunā</string>
+    <string name="nepali_other_relations_heir">utara’adhikārī</string>
+    <string name="nepali_other_relations_customer">grahaka</string>
+    <string name="nepali_other_relations_landlord">gharapēṭī</string>
+    <string name="nepali_other_relations_tenant">bahālē</string>
+    <string name="nepali_other_relations_client">muvakkala</string>
+    <string name="nepali_other_relations_patient">rogi</string>
+
+
+    <!-- Nepali translation for number -->
+    <string name="nepali_number_one">ek</string>
+    <string name="nepali_number_two">dui</string>
+    <string name="nepali_number_three">teen</string>
+    <string name="nepali_number_four">chaar</string>
+    <string name="nepali_number_five">paanch</string>
+    <string name="nepali_number_six">cha</string>
+    <string name="nepali_number_seven">saat</string>
+    <string name="nepali_number_eight">aatth</string>
+    <string name="nepali_number_nine">nou</string>
+    <string name="nepali_number_ten">das</string>
+
+    <!-- Nepali translation for b10_Time_MainFragment (basic) -->
+    <string name="nepali_time_today">aaja</string>
+    <string name="nepali_time_tomorrow">bholi</string>
+    <string name="nepali_time_yesterday">hijo</string>
+    <string name="nepali_time_morning">bihana</string>
+    <string name="nepali_time_afternoon">sanjha</string>
+    <string name="nepali_time_night">raati</string>
+    <string name="nepali_time_week">hapta</string>
+    <string name="nepali_time_day">din</string>
+    <string name="nepali_time_month">mahina</string>
+    <string name="nepali_time_year">barsa</string>
+
+    <!--Days of Week-->
+    <string name="nepali_time_sunday">aaitabaar</string>
+    <string name="nepali_time_monday">sombaar</string>
+    <string name="nepali_time_tuesday">mangalbaar</string>
+    <string name="nepali_time_wednesday">budhabaar</string>
+    <string name="nepali_time_thursday">bihibaar</string>
+    <string name="nepali_time_friday">shukrabaar</string>
+    <string name="nepali_time_saturday">shanibaar</string>
+
+    <!--Nepali Months-->
+    <string name="nepali_time_month_01">Baishakh</string>
+    <string name="nepali_time_month_02">Jestha</string>
+    <string name="nepali_time_month_03">Asar</string>
+    <string name="nepali_time_month_04">Shrawan</string>
+    <string name="nepali_time_month_05">Bhadau</string>
+    <string name="nepali_time_month_06">Aswin</string>
+    <string name="nepali_time_month_07">Kartik</string>
+    <string name="nepali_time_month_08">Mansir</string>
+    <string name="nepali_time_month_09">Poush</string>
+    <string name="nepali_time_month_10">Magh</string>
+    <string name="nepali_time_month_11">Falgun</string>
+    <string name="nepali_time_month_12">Chaitra</string>
+
+    <!--Nepali Ecological Seasons-->
+    <string name="nepali_season_01">Vasanta</string>
+    <string name="nepali_season_02">Grishma</string>
+    <string name="nepali_season_03">Varsha</string>
+    <string name="nepali_season_04">Sharada</string>
+    <string name="nepali_season_05">Hemanta</string>
+    <string name="nepali_season_06">Shishira</string>
+
+    <!--b10_Food_MainFragment-->
+    <!--b10_Food_MainFragment General-->
+    <string name="nepali_food_breakfast">naasta</string>
+    <string name="nepali_food_lunch">khaaja</string>
+    <string name="nepali_food_dinner">khaana</string>
+    <string name="nepali_food_lentils">daal</string>
+    <string name="nepali_food_rice">bhaat</string>
+    <string name="nepali_food_vegetable">tarkari</string>
+
+    <!--b10_Food_MainFragment Fluid-->
+    <string name="nepali_food_water">paani</string>
+    <string name="nepali_food_tea">chiyaa</string>
+    <string name="nepali_food_coffee">coffee</string>
+
+    <!--Vegetables-->
+    <string name="nepali_vegetables_01">aalu</string>
+    <string name="nepali_vegetables_02">katahar</string>
+    <string name="nepali_vegetables_03">karela </string>
+    <string name="nepali_vegetables_04">kauli, phulakobi</string>
+    <string name="nepali_vegetables_05">kakro, khira</string>
+    <string name="nepali_vegetables_06">kasiphala, pharsari, kimbu</string>
+    <string name="nepali_vegetables_07">kubhindo </string>
+    <string name="nepali_vegetables_08">kerau </string>
+    <string name="nepali_vegetables_09">gyamtha kobhi</string>
+    <string name="nepali_vegetables_10">chyau</string>
+    <string name="nepali_vegetables_11">gourd – chichindo</string>
+    <string name="nepali_vegetables_12">dhaturo</string>
+    <string name="nepali_vegetables_13">narival</string>
+    <string name="nepali_vegetables_14">palaka</string>
+    <string name="nepali_vegetables_15">pindalu, karkalo</string>
+    <string name="nepali_vegetables_16">bandagobi</string>
+    <string name="nepali_vegetables_17">baigana</string>
+    <string name="nepali_vegetables_18">bhindi, ramatoriya</string>
+    <string name="nepali_vegetables_19">makai</string>
+    <string name="nepali_vegetables_20">mula</string>
+    <string name="nepali_vegetables_22">ratalu, tarula</string>
+    <string name="nepali_vegetables_23">sakarakand</string>
+    <string name="nepali_vegetables_24">salagama</string>
+    <string name="nepali_vegetables_25">salad pat</string>
+    <string name="nepali_vegetables_26">simi</string>
+    <string name="nepali_vegetables_27">beet – suthani</string>
+    <string name="nepali_vegetables_21">pharsari, kaddu</string>
+
+    <!--Fruits-->
+    <string name="nepali_fruits_01">suntala, narangi</string>
+    <string name="nepali_fruits_02">syau</string>
+    <string name="nepali_fruits_03">lichi</string>
+    <string name="nepali_fruits_04">mausami</string>
+    <string name="nepali_fruits_05">aamp</string>
+    <string name="nepali_fruits_06">angur</string>
+    <string name="nepali_fruits_07">badam</string>
+    <string name="nepali_fruits_08">nibu, jyamira</string>
+    <string name="nepali_fruits_09">tarabuja</string>
+    <string name="nepali_fruits_10">jyamir</string>
+    <string name="nepali_fruits_11">ghyampe ainselu jamuna</string>
+    <string name="nepali_fruits_12">gajara</string>
+    <string name="nepali_fruits_13">khurpani, anjira</string>
+    <string name="nepali_fruits_14">khajura</string>
+    <string name="nepali_fruits_15">katahar</string>
+    <string name="nepali_fruits_16">ukhu</string>
+    <string name="nepali_fruits_17">amba, amaruda</string>
+    <string name="nepali_fruits_18">ananasa, bhuikatahar</string>
+    <string name="nepali_fruits_19">aaru</string>
+    <string name="nepali_fruits_20">aalubakhada</string>
+    <string name="nepali_fruits_21">kaphal</string>
+    <string name="nepali_fruits_22">kera</string>
+    <string name="nepali_fruits_23">papita, mewa</string>
+
+
+    <!--Spices and Nuts-->
+    <string name="nepali_food_other_01">Aduwa</string>
+    <string name="nepali_food_other_02">okhara</string>
+    <string name="nepali_food_other_03">karavir</string>
+    <string name="nepali_food_other_04">kagati</string>
+    <string name="nepali_food_other_05">cashewnutharusani</string>
+    <string name="nepali_food_other_06">khursani</string>
+    <string name="nepali_food_other_07">chiniya badam</string>
+    <string name="nepali_food_other_08">japani bayar</string>
+    <string name="nepali_food_other_09">jaitun</string>
+    <string name="nepali_food_other_10">dhaniya</string>
+    <string name="nepali_food_other_11">nilakamala</string>
+    <string name="nepali_food_other_12">pyaja</string>
+    <string name="nepali_food_other_13">bakaino</string>
+    <string name="nepali_food_other_14">abadam</string>
+    <string name="nepali_food_other_15">mungaphali</string>
+    <string name="nepali_food_other_16">saripha</string>
+    <string name="nepali_food_other_17">sabudana</string>
+    <string name="nepali_food_other_18">singhada</string>
+
+
+    <!--Flowers-->
+    <string name="nepali_flowers_01"> kamal</string>
+    <string name="nepali_flowers_02"> okhara</string>
+    <string name="nepali_flowers_03">karavir</string>
+    <string name="nepali_flowers_04">gula bahar</string>
+    <string name="nepali_flowers_05">gulaph</string>
+    <string name="nepali_flowers_06">godavari phul</string>
+    <string name="nepali_flowers_07">chameli</string>
+    <string name="nepali_flowers_08">champa</string>
+    <string name="nepali_flowers_09">dhatura</string>
+    <string name="nepali_flowers_10">lajjavati jhar</string>
+    <string name="nepali_flowers_11">sayapatri phul</string>
+    <string name="nepali_flowers_12">simal</string>
+
+    <!--Animals-->
+    <string name="nepali_animals_01">unt </string>
+    <string name="nepali_animals_02">kasturi mriga</string>
+    <string name="nepali_animals_03">bhalu</string>
+    <string name="nepali_animals_04">bheda </string>
+    <string name="nepali_animals_05">bhainsi </string>
+    <string name="nepali_animals_06">musa </string>
+    <string name="nepali_animals_07">mriga, harina</string>
+    <string name="nepali_animals_08">langura, dhedu </string>
+    <string name="nepali_animals_09">lokharke </string>
+    <string name="nepali_animals_10">sandhe</string>
+    <string name="nepali_animals_11">syala </string>
+    <string name="nepali_animals_12">singha</string>
+    <string name="nepali_animals_13">sungur </string>
+    <string name="nepali_animals_14">hatti </string>
+    <string name="nepali_animals_15">kukur</string>
+    <string name="nepali_animals_16">khachara</string>
+    <string name="nepali_animals_17">kharayo </string>
+    <string name="nepali_animals_18">gadha</string>
+    <string name="nepali_animals_19">gai</string>
+    <string name="nepali_animals_20">gainda</string>
+    <string name="nepali_animals_21">goru </string>
+    <string name="nepali_animals_22">ghoda</string>
+    <string name="nepali_animals_23">kalo bagh</string>
+    <string name="nepali_animals_24">pdumsi </string>
+    <string name="nepali_animals_25">bagh</string>
+    <string name="nepali_animals_26">bahra siga</string>
+    <string name="nepali_animals_27">bandar</string>
+    <string name="nepali_animals_28">biralo</string>
+    <string name="nepali_animals_29">bvanso</string>
+
+    <!--Birds-->
+    <string name="nepali_birds_01">kathaphora</string>
+    <string name="nepali_birds_02">kag</string>
+    <string name="nepali_birds_03">kalo kauva</string>
+    <string name="nepali_birds_04">kukhura</string>
+    <string name="nepali_birds_05">kukhuraka challa</string>
+    <string name="nepali_birds_06">koili</string>
+    <string name="nepali_birds_07">garud</string>
+    <string name="nepali_birds_08">giddha</string>
+    <string name="nepali_birds_09">gauthali </string>
+    <string name="nepali_birds_10">challa</string>
+    <string name="nepali_birds_11">chamero</string>
+    <string name="nepali_birds_12">jureli</string>
+    <string name="nepali_birds_13">dhukkur</string>
+    <string name="nepali_birds_14">titra</string>
+    <string name="nepali_birds_15">dhobi chara</string>
+    <string name="nepali_birds_16">pareva</string>
+    <string name="nepali_birds_17">bartai</string>
+    <string name="nepali_birds_18">baj</string>
+    <string name="nepali_birds_19">bhangera</string>
+    <string name="nepali_birds_20">majur</string>
+    <string name="nepali_birds_21">latokosero</string>
+    <string name="nepali_birds_22">rajahans</string>
+    <string name="nepali_birds_23">saras</string>
+    <string name="nepali_birds_24">suga</string>
+    <string name="nepali_birds_25">hans</string>
+    <string name="nepali_birds_26">danfe</string>
+
+
+    <!--Nepali translation for colors-->
+    <string name="nepali_color_red">raato</string>
+    <string name="nepali_color_green">hariyo</string>
+    <string name="nepali_color_blue">neelo</string>
+    <string name="nepali_color_black">kaalo</string>
+    <string name="nepali_color_white">seto</string>
+    <string name="nepali_color_gray">kharani</string>
+    <string name="nepali_color_purple">pyaaji</string>
+    <string name="nepali_color_yellow">pahelo</string>
+    <string name="nepali_color_orange">suntala</string>
+    <string name="nepali_color_brown">khairo</string>
+
+    <!--Nepali translation for b10_Phrases_MainFragment (Basic)-->
+    <string name="nepali_phrase_where_are_you_going">timi kata gai raheko?</string>
+    <string name="nepali_phrase_what_is_your_name">timro naam k ho?</string>
+    <string name="nepali_phrase_my_name_is">mero naam ... ho</string>
+    <string name="nepali_phrase_how_are_you_feeling">timi lai kasto cha?</string>
+    <string name="nepali_phrase_im_feeling_good">ma lai thik cha</string>
+    <string name="nepali_phrase_are_you_coming">timi aauney ho?</string>
+    <string name="nepali_phrase_yes_im_coming">ho, ma aauney ho</string>
+    <string name="nepali_phrase_im_coming">ma aaudai chu</string>
+    <string name="nepali_phrase_lets_go">haami sabai jaam</string>
+    <string name="nepali_phrase_come_here">yeta aau</string>
+
+</resources>

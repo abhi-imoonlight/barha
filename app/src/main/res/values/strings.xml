@@ -1,0 +1,379 @@
+<resources>
+    <string name="app_name">Nepali Varnamaala</string>
+
+    <!--Main List-->
+    <!--Category b10_Others_MainFragment-->
+    <string name="category_others">Others</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_spices_nuts">Spices and Nuts</string>
+    <string name="category_flowers">Flowers</string>
+    <string name="category_time_and_place">Time and Place</string>
+
+    <!--Category b10_Food_MainFragment and Dining-->
+    <string name="category_food_and_dining">Food and Dining</string>
+    <string name="category_food">Food</string>
+    <string name="category_food_vegetables">Vegetables</string>
+    <string name="category_food_fruits">Fruits and Nuts</string>
+    <string name="category_food_diet">Diet</string>
+
+    <!--Category Activities of Daily Living-->
+    <string name="category_adl">Activities of Daily Living</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_phrases_greetings">Greetings</string>
+    <string name="category_phrases_vocabulary">vocabulary</string>
+    <string name="category_phrases_introductions">Introductions</string>
+    <string name="category_phrases_comprehension">Comprehension</string>
+
+    <!--Category - Letter, Words and Numbers-->
+    <string name="category_letters">Vowels and Consonants</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_vowels">Vowels</string>
+    <string name="category_letters_detail">Letters and Numbers</string>
+    <string name="category_consonants">Consonants</string>
+    <string name="category_barhakhari">Barhakhari</string>
+
+    <!--Animal, Birds and Reptiles-->
+    <string name="category_animals_birds_reptiles">Animals, Birds and Reptiles</string>
+    <string name="category_animals">Animals</string>
+    <string name="category_plants">Plants</string>
+    <string name="category_reptiles">Reptiles</string>
+
+    <!--b10_Time_MainFragment, Place, Person Category-->
+    <string name="category_time_place_person">Time, Place and Person</string>
+    <string name="category_day">Day</string>
+    <string name="category_time">Time</string>
+    <string name="category_week">Week</string>
+    <string name="category_month">Month</string>
+    <string name="category_season">Season</string>
+    <string name="category_places_general">General</string>
+    <string name="category_places">Places</string>
+    <string name="category_places_cities">Cities</string>
+    <string name="category_places_countries">Countries</string>
+    <string name="category_relations">Relations</string>
+    <string name="category_family">Family Members</string>
+    <string name="category_family_close">Close</string>
+    <string name="category_family_extended">Extended</string>
+    <string name="category_family_general">General</string>
+
+    <!--b10_Others_MainFragment Color-->
+    <string name="color_red">red</string>
+    <string name="color_blue">blue</string>
+    <string name="color_green">green</string>
+    <string name="color_black">black</string>
+    <string name="color_gray">gray</string>
+    <string name="color_white">white</string>
+    <string name="color_yellow">yellow</string>
+    <string name="color_orange">orange</string>
+    <string name="color_brown">brown</string>
+    <string name="color_purple">Purple</string>
+
+    <!--Numbers-->
+    <string name="number_one">one</string>
+    <string name="number_two">two</string>
+    <string name="number_three">three</string>
+    <string name="number_four">four</string>
+    <string name="number_five">five</string>
+    <string name="number_six">six</string>
+    <string name="number_seven">seven</string>
+    <string name="number_eight">eight</string>
+    <string name="number_nine">nine</string>
+    <string name="number_ten">ten</string>
+
+    <!--Vegetables-->
+    <string name="vegetables_01">potato</string>
+    <string name="vegetables_02">jack fruit</string>
+    <string name="vegetables_03">bitter gourd</string>
+    <string name="vegetables_04">cauliflower kauli</string>
+    <string name="vegetables_05">cucumber kakro</string>
+    <string name="vegetables_06">red pumpkin</string>
+    <string name="vegetables_07">cucurbit gourd</string>
+    <string name="vegetables_08">pea</string>
+    <string name="vegetables_09">knolkhol</string>
+    <string name="vegetables_10">mushroom</string>
+    <string name="vegetables_11">snake gourd</string>
+    <string name="vegetables_12">night shade</string>
+    <string name="vegetables_13">coconut</string>
+    <string name="vegetables_14">spinach</string>
+    <string name="vegetables_15">colocesia antiquorum</string>
+    <string name="vegetables_16">cabbage</string>
+    <string name="vegetables_17">brinjal</string>
+    <string name="vegetables_18">lady finger</string>
+    <string name="vegetables_19">corn ear</string>
+    <string name="vegetables_20">raddish</string>
+    <string name="vegetables_22">yam</string>
+    <string name="vegetables_23">sweetpotato</string>
+    <string name="vegetables_24">turnip</string>
+    <string name="vegetables_25">lettuce</string>
+    <string name="vegetables_26">bean</string>
+    <string name="vegetables_27">sugar beet</string>
+    <string name="vegetables_21">pumpkin</string>
+
+    <!--Fruits-->
+    <string name="fruits_01">orange</string>
+    <string name="fruits_02">apple</string>
+    <string name="fruits_03">lichi</string>
+    <string name="fruits_04">mosambi</string>
+    <string name="fruits_05">mango</string>
+    <string name="fruits_06">grape </string>
+    <string name="fruits_07">almond</string>
+    <string name="fruits_08">lemon</string>
+    <string name="fruits_09">water melon</string>
+    <string name="fruits_10">citron</string>
+    <string name="fruits_11">black berry</string>
+    <string name="fruits_12">carrot</string>
+    <string name="fruits_13">apricot </string>
+    <string name="fruits_14">date</string>
+    <string name="fruits_15">jack fruit</string>
+    <string name="fruits_16">sugarcane </string>
+    <string name="fruits_17">guava</string>
+    <string name="fruits_18">pineapple</string>
+    <string name="fruits_19">peach </string>
+    <string name="fruits_20">bokhara Plum</string>
+    <string name="fruits_21">berry </string>
+    <string name="fruits_22">banana</string>
+    <string name="fruits_23">papaya</string>
+
+
+    <!--Spices and Nuts-->
+    <string name="food_other_01">ginger</string>
+    <string name="food_other_02">chestnut</string>
+    <string name="food_other_03">oleander</string>
+    <string name="food_other_04">lime</string>
+    <string name="food_other_05">cashewnut </string>
+    <string name="food_other_06">chilli </string>
+    <string name="food_other_07">groundnut</string>
+    <string name="food_other_08">japanese plum </string>
+    <string name="food_other_09">olive</string>
+    <string name="food_other_10">coriander</string>
+    <string name="food_other_11">lily</string>
+    <string name="food_other_12">onion</string>
+    <string name="food_other_13">lilac </string>
+    <string name="food_other_14">almond </string>
+    <string name="food_other_15">groundnut</string>
+    <string name="food_other_16">custard apple </string>
+    <string name="food_other_17">sago </string>
+    <string name="food_other_18">water nut</string>
+
+
+    <!--Flowers-->
+    <string name="flowers_01">lotus </string>
+    <string name="flowers_02">chestnut</string>
+    <string name="flowers_03">oleander</string>
+    <string name="flowers_04">daisy </string>
+    <string name="flowers_05">rose </string>
+    <string name="flowers_06">chrysanthemum </string>
+    <string name="flowers_07">jasmine</string>
+    <string name="flowers_08">magnolia </string>
+    <string name="flowers_09">belladona </string>
+    <string name="flowers_10"> touch me not </string>
+    <string name="flowers_11">marigold </string>
+    <string name="flowers_12">silk cotton</string>
+
+
+    <!--Animals-->
+    <string name="animals_01">camel</string>
+    <string name="animals_02">musk deer</string>
+    <string name="animals_03">bear</string>
+    <string name="animals_04">sheep</string>
+    <string name="animals_05">buffalo</string>
+    <string name="animals_06">mouse</string>
+    <string name="animals_07">deer</string>
+    <string name="animals_08">ape</string>
+    <string name="animals_09">squirrel </string>
+    <string name="animals_10">bull</string>
+    <string name="animals_11">jackal</string>
+    <string name="animals_12">lionh</string>
+    <string name="animals_13">pig</string>
+    <string name="animals_14">elephant</string>
+    <string name="animals_15">dog</string>
+    <string name="animals_16">mule</string>
+    <string name="animals_17">rabbit</string>
+    <string name="animals_18">ass</string>
+    <string name="animals_19">cow</string>
+    <string name="animals_20">rhinoceros</string>
+    <string name="animals_21">ox</string>
+    <string name="animals_22">horse</string>
+    <string name="animals_23">panther</string>
+    <string name="animals_24">porcupine</string>
+    <string name="animals_25">tiger </string>
+    <string name="animals_26">stag</string>
+    <string name="animals_27">monkey</string>
+    <string name="animals_28">cat </string>
+    <string name="animals_29"> wolf</string>
+
+
+    <!--Birds-->
+    <string name="birds_01">woodpecker  </string>
+    <string name="birds_02">crow  </string>
+    <string name="birds_03">raven    </string>
+    <string name="birds_04">cock  </string>
+    <string name="birds_05">chicken    </string>
+    <string name="birds_06">cuckoo</string>
+    <string name="birds_07">eagle  </string>
+    <string name="birds_08">vulture  </string>
+    <string name="birds_09">swallow   </string>
+    <string name="birds_10">chicken  </string>
+    <string name="birds_11">bat  </string>
+    <string name="birds_12">nightingale</string>
+    <string name="birds_13">dove  </string>
+    <string name="birds_14">partidge  </string>
+    <string name="birds_15">magpie    </string>
+    <string name="birds_16">pigeon  </string>
+    <string name="birds_17">quail  </string>
+    <string name="birds_18">hawk  </string>
+    <string name="birds_19">sparrow  </string>
+    <string name="birds_20">peacock  </string>
+    <string name="birds_21">owl  </string>
+    <string name="birds_22">swan  </string>
+    <string name="birds_23">crane  </string>
+    <string name="birds_24">parrot  </string>
+    <string name="birds_25">duck  </string>
+    <string name="birds_26">lophophorus</string>
+
+
+    <!--Day-->
+    <string name="time_today">today</string>
+    <string name="time_tomorrow">tomorrow</string>
+    <string name="time_yesterday">yesterday</string>
+    <string name="time_morning">morning</string>
+    <string name="time_afternoon">afternoon</string>
+    <string name="time_night">night</string>
+    <string name="time_week">week</string>
+    <string name="time_day">day</string>
+    <string name="time_month">month</string>
+    <string name="time_year">year</string>
+
+    <!--Weeks-->
+    <string name="time_sunday">sunday</string>
+    <string name="time_monday">monday</string>
+    <string name="time_tuesday">tuesday</string>
+    <string name="time_wednesday">wednesday</string>
+    <string name="time_thursday">thursday</string>
+    <string name="time_friday">friday</string>
+    <string name="time_saturday">saturday</string>
+
+    <!--Nepali Months-->
+    <string name="time_month_01">Mid April to Mid May</string>
+    <string name="time_month_02">Mid May to Mid June</string>
+    <string name="time_month_03">Mid June to Mid July</string>
+    <string name="time_month_04">Mid July to Mid August</string>
+    <string name="time_month_05">Mid August to Mid September</string>
+    <string name="time_month_06">Mid September to Mid October</string>
+    <string name="time_month_07">Mid October to Mid November</string>
+    <string name="time_month_08">Mid November to Mid December</string>
+    <string name="time_month_09">Mid December to Mid January</string>
+    <string name="time_month_10">Mid January to Mid February</string>
+    <string name="time_month_11">Mid February to Mid March	</string>
+    <string name="time_month_12">Mid March – April</string>
+
+    <!--Ecological Seasons-->
+    <string name="season_01">Spring</string>
+    <string name="season_02">Summer</string>
+    <string name="season_03">Monsoon</string>
+    <string name="season_04">Autumn</string>
+    <string name="season_05">Winter</string>
+    <string name="season_06">Fall</string>
+
+    <!--Family - Close-->
+    <string name="family_father">father</string>
+    <string name="family_mother">mother</string>
+    <string name="family_husband">husband</string>
+    <string name="family_wife">wife</string>
+    <string name="family_son">son</string>
+    <string name="family_daughter">daughter</string>
+    <string name="family_older_brother">older brother</string>
+    <string name="family_younger_brother">younger brother</string>
+    <string name="family_older_sister">older sister</string>
+    <string name="family_younger_sister">younger sister</string>
+    <string name="family_grandmother">grandmother</string>
+    <string name="family_grandfather">grandfather</string>
+
+    <!--Extended Relations-->
+    <string name="extended_relative">relative</string>
+    <string name="extended_family_spouse_father">father-in-Law</string>
+    <string name="extended_family_spouse_mother">mother-in-Law</string>
+    <string name="extended_family_son_in_law">son-in-law</string>
+    <string name="extended_family_daughter_in_law">daughter-in-law</string>
+    <string name="extended_family_father_younger_brother">father\'s younger brother</string>
+    <string name="extended_family_father_younger_brother_wife">wife to father\'s younger brother</string>
+    <string name="extended_family_father_older_brother">father\'s older brother</string>
+    <string name="extended_family_father_older_brother_wife">wife to father\'s older brother</string>
+    <string name="extended_family_maternal_uncle">mother\'s brother</string>
+    <string name="extended_family_maternal_aunt">wife to mother\'s brother</string>
+    <string name="extended_family_maternal_sister_older">mother\'s older sister</string>
+    <string name="extended_family_maternal_sister_older_husband">husband of mother\'s older sister</string>
+    <string name="extended_family_maternal_sister_younger">mother\'s younger sister</string>
+    <string name="extended_family_maternal_sister_younger_husband">husband of mother\'s younger sister</string>
+    <string name="extended_family_wife_older_brother">older brother of wife</string>
+    <string name="extended_family_wife_older_brother_wife">jethani</string>
+    <string name="extended_family_wife_younger_brother">younger brother of wife</string>
+    <string name="extended_family_wife_younger_sister">saali</string>
+    <string name="extended_family_husband_younger_brother">younger brother of husband</string>
+    <string name="extended_family_husband_younger_brother_wife">dewarani</string>
+    <string name="extended_family_husband_younger_sister">husband\'s sister</string>
+    <string name="extended_family_older_sister_husband">older sister\'s husband</string>
+    <string name="extended_brother_son">brother\'s son</string>
+    <string name="extended_brother_daughter">brother\'s daughter</string>
+    <string name="extended_sister_son">sister\'s son</string>
+    <string name="extended_sister_daughter">sister\'s daughter</string>
+
+    <!--Other Relations-->
+    <string name="other_relations_preceptor">preceptor</string>
+    <string name="other_relations_lecture">lecture</string>
+    <string name="other_relations_teacher">teacher</string>
+    <string name="other_relations_teacher_male">teacher (male)</string>
+    <string name="other_relations_teacher_female">teacher (female)</string>
+    <string name="other_relations_student_male">student (male)</string>
+    <string name="other_relations_student_female">student (female)</string>
+    <string name="other_relations_disciple">disciple</string>
+    <string name="other_relations_friend">friend</string>
+    <string name="other_relations_guest">guest</string>
+    <string name="other_relations_heir">heir</string>
+    <string name="other_relations_customer">customer</string>
+    <string name="other_relations_landlord">landlord</string>
+    <string name="other_relations_tenant">tenant</string>
+    <string name="other_relations_client">client</string>
+    <string name="other_relations_patient">patient</string>
+
+    <!--b10_Phrases_MainFragment-->
+    <string name="phrase_where_are_you_going">Where are you going?</string>
+    <string name="phrase_what_is_your_name">What is your name?</string>
+    <string name="phrase_my_name_is">My name is</string>
+    <string name="phrase_how_are_you_feeling">How are you feeling?</string>
+    <string name="phrase_im_feeling_good">I\'m feeling good.</string>
+    <string name="phrase_are_you_coming">Are you coming?</string>
+    <string name="phrase_yes_im_coming">"Yes, I\'m coming."</string>
+    <string name="phrase_im_coming">I\'m coming.</string>
+    <string name="phrase_lets_go">Let\'s go.</string>
+    <string name="phrase_come_here">Come here.</string>
+
+    <!--b10_Food_MainFragment General-->
+    <string name="food_breakfast">breakfast</string>
+    <string name="food_lunch">lunch</string>
+    <string name="food_dinner">dinner</string>
+    <string name="food_lentils">lentils</string>
+    <string name="food_rice">rice</string>
+    <string name="food_vegetable">vegetable</string>
+
+    <!--b10_Food_MainFragment Fluid-->
+    <string name="food_water">water</string>
+    <string name="food_tea">tea</string>
+    <string name="food_coffee">coffee</string>
+    <string name="button_example">Example</string>
+    <string name="button_vowels">Vowel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_places_phrases">Phrases</string>
+    <string name="category_birds">Birds</string>
+    <string name="category_fish">Fish</string>
+    <string name="category_phrases_places">Places</string>
+    <string name="category_phrases_food">Food</string>
+    <string name="category_clothes">Clothing</string>
+    <string name="category_dining">Dining</string>
+    <string name="category_food_drinks">Drinks</string>
+    <string name="category_test">TEST</string>
+
+
+</resources>
+

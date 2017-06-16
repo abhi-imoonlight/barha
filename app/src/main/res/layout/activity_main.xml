@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.momobites.prash.nepalivarnamaala.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- 01 b10_Main_Fragment, Word, and Numbers category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_letters_words_numbers">
+
+            <TextView
+                android:id="@+id/letters_word_numbers"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_letters" />
+
+        </FrameLayout>
+
+
+        <!-- 02 b10_Time_MainFragment, Place and Person category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_time_place_person">
+            <TextView
+                android:id="@+id/time_place_person"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_time_place_person" />
+        </FrameLayout>
+
+
+        <!-- 03 b10_Food_MainFragment and Dining category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:background="@color/category_food_dining"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/food_and_dining"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_food_and_dining" />
+        </FrameLayout>
+
+
+        <!-- 04 Animals, Birds and Reptiles category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_animals_birds_reptiles">
+            <TextView
+                android:id="@+id/animals_bird_reptiles"
+                style="@style/CategoryStyleOdd"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_animals_birds_reptiles" />
+        </FrameLayout>
+
+        <!-- 04 Activities of Daily Living category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_adl">
+            <TextView
+                android:id="@+id/adl"
+                style="@style/CategoryStyleOdd"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_adl" />
+        </FrameLayout>
+
+
+        <!-- 05 b10_Others_MainFragment category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_others">
+            <TextView
+                android:id="@+id/others"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_others" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+</ScrollView>

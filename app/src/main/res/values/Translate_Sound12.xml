@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Devnagari Letter K-->
+    <string name="letter_ka_01">क </string>
+    <string name="letter_ka_02">का</string>
+    <string name="letter_ka_03">की</string>
+    <string name="letter_ka_04">कि</string>
+    <string name="letter_ka_05">कु</string>
+    <string name="letter_ka_06">कू</string>
+    <string name="letter_ka_07">के</string>
+    <string name="letter_ka_08">कै</string>
+    <string name="letter_ka_09">काे</string>
+    <string name="letter_ka_10">काै</string>
+    <string name="letter_ka_11">कं</string>
+    <string name="letter_ka_12">कः</string>
+    <string name="letter_dka_01">Ka</string>
+    <string name="letter_dka_02">Kaa</string>
+    <string name="letter_dka_03">Ki</string>
+    <string name="letter_dka_04">Kee</string>
+    <string name="letter_dka_05">Ku</string>
+    <string name="letter_dka_06">Koo</string>
+    <string name="letter_dka_07">Kae</string>
+    <string name="letter_dka_08">Kai</string>
+    <string name="letter_dka_09">Ko</string>
+    <string name="letter_dka_10">Kou</string>
+    <string name="letter_dka_11">Kam</string>
+    <string name="letter_dka_12">Kah</string>
+
+
+    <!--Devnagari Letter Kh-->
+    <string name="letter_kha_01">ख </string>
+    <string name="letter_kha_02">खा</string>
+    <string name="letter_kha_03">खी</string>
+    <string name="letter_kha_04">खि</string>
+    <string name="letter_kha_05">खु</string>
+    <string name="letter_kha_06">खू</string>
+    <string name="letter_kha_07">खे</string>
+    <string name="letter_kha_08">खै</string>
+    <string name="letter_kha_09">खाे</string>
+    <string name="letter_kha_10">खाै</string>
+    <string name="letter_kha_11">खं</string>
+    <string name="letter_kha_12">खः</string>
+    <string name="letter_dkha_01">kha</string>
+    <string name="letter_dkha_02">khaa</string>
+    <string name="letter_dkha_03">khi</string>
+    <string name="letter_dkha_04">khee</string>
+    <string name="letter_dkha_05">khu</string>
+    <string name="letter_dkha_06">khoo</string>
+    <string name="letter_dkha_07">khae</string>
+    <string name="letter_dkha_08">khai</string>
+    <string name="letter_dkha_09">kho</string>
+    <string name="letter_dkha_10">khou</string>
+    <string name="letter_dkha_11">kham</string>
+    <string name="letter_dkha_12">khah</string>
+
+
+
+    <!--Devnagari Letter Ga-->
+    <string name="letter_ga_01">ग </string>
+    <string name="letter_ga_02">गा</string>
+    <string name="letter_ga_03">गी</string>
+    <string name="letter_ga_04">गि</string>
+    <string name="letter_ga_05">गु</string>
+    <string name="letter_ga_06">गू</string>
+    <string name="letter_ga_07">गे</string>
+    <string name="letter_ga_08">गै</string>
+    <string name="letter_ga_09">गाे</string>
+    <string name="letter_ga_10">गाै</string>
+    <string name="letter_ga_11">गं</string>
+    <string name="letter_ga_12">गः</string>
+    <string name="letter_dga_01">ga</string>
+    <string name="letter_dga_02">gaa</string>
+    <string name="letter_dga_03">ghi</string>
+    <string name="letter_dga_04">ghee</string>
+    <string name="letter_dga_05">ghu</string>
+    <string name="letter_dga_06">ghoo</string>
+    <string name="letter_dga_07">gae</string>
+    <string name="letter_dga_08">gai</string>
+    <string name="letter_dga_09">gho</string>
+    <string name="letter_dga_10">ghou</string>
+    <string name="letter_dga_11">gam</string>
+    <string name="letter_dga_12">gah</string>
+
+
+
+
+</resources>

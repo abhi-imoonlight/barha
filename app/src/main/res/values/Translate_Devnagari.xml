@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Devnagari Letter Consonents-->
+    <string name="devnagari_letter_ka">क</string>
+    <string name="devnagari_letter_kha">ख</string>
+    <string name="devnagari_letter_ga">ग</string>
+    <string name="devnagari_letter_gha">घ</string>
+    <string name="devnagari_letter_nga">ङ</string>
+    <string name="devnagari_letter_cha">च</string>
+    <string name="devnagari_letter_chha">छ</string>
+    <string name="devnagari_letter_ja">ज</string>
+    <string name="devnagari_letter_jha">झ</string>
+    <string name="devnagari_letter_yna">ञ</string>
+    <string name="devnagari_letter_ta">त</string>
+    <string name="devnagari_letter_tha">थ</string>
+    <string name="devnagari_letter_da">द</string>
+    <string name="devnagari_letter_dha">ध</string>
+    <string name="devnagari_letter_na">न</string>
+    <string name="devnagari_letter_pa">प</string>
+    <string name="devnagari_letter_pha">फ</string>
+    <string name="devnagari_letter_ba">ब</string>
+    <string name="devnagari_letter_bha">भ</string>
+    <string name="devnagari_letter_ma">म</string>
+    <string name="devnagari_letter_ya">य</string>
+    <string name="devnagari_letter_ra">र</string>
+    <string name="devnagari_letter_la">ल</string>
+    <string name="devnagari_letter_wa">व</string>
+    <string name="devnagari_letter_sa">स</string>
+    <string name="devnagari_letter_khha">ष</string>
+    <string name="devnagari_letter_sha">श</string>
+    <string name="devnagari_letter_ha">ह</string>
+    <string name="devnagari_letter_chyha">छ्य</string>
+    <string name="devnagari_letter_tra">ऋ</string>
+    <string name="devnagari_letter_gyna">ञ</string>
+
+
+    <!--Devnagari Letter Vowels-->
+    <string name="devnagari_letter_a">अ</string>
+    <string name="devnagari_letter_aa">आ</string>
+    <string name="devnagari_letter_i">इ</string>
+    <string name="devnagari_letter_ii">ई</string>
+    <string name="devnagari_letter_u">उ</string>
+    <string name="devnagari_letter_uu">ऊ</string>
+    <string name="devnagari_letter_ae">ए</string>
+    <string name="devnagari_letter_aye">ऐ</string>
+    <string name="devnagari_letter_ao">आे</string>
+    <string name="devnagari_letter_aou">औ</string>
+    <string name="devnagari_letter_mm">अं</string>
+    <string name="devnagari_letter_yhna">अ:</string>
+    <string name="devnagari_letter_om">ॐ</string>
+    <string name="devnagari_letter_ri">ऋ</string>
+
+
+    <!-- Devnagari translation for number -->
+    <string name="devnagari_number_one">१ एक</string>
+    <string name="devnagari_number_two">२ दुई</string>
+    <string name="devnagari_number_three">३ तीन</string>
+    <string name="devnagari_number_four">४ चार</string>
+    <string name="devnagari_number_five">५ पांच</string>
+    <string name="devnagari_number_six">६ छ</string>
+    <string name="devnagari_number_seven">७ सात</string>
+    <string name="devnagari_number_eight">८ आठ</string>
+    <string name="devnagari_number_nine">९ नैा</string>
+    <string name="devnagari_number_ten">१० दस</string>
+
+
+    <!-- Devnagari translation for colors -->
+    <string name="devnagari_color_red">रातो</string>
+    <string name="devnagari_color_green">हरियो</string>
+    <string name="devnagari_color_blue">नीलो</string>
+    <string name="devnagari_color_white">सेतो</string>
+    <string name="devnagari_color_black">कालो</string>
+    <string name="devnagari_color_gray">खरानी</string>
+    <string name="devnagari_color_orange">सुन्तला</string>
+    <string name="devnagari_color_purple">प्याजी</string>
+    <string name="devnagari_color_brown">खैरो</string>
+    <string name="devnagari_color_yellow">पहेंलो</string>
+
+    <!-- Devnagari translation for Families -->
+    <string name="devnagari_family_father">बाबा</string>
+    <string name="devnagari_family_mother">आमा</string>
+    <string name="devnagari_family_husband">सृिमान</string>
+    <string name="devnagari_family_wife">सर्रमति</string>
+    <string name="devnagari_family_son">छोरा</string>
+    <string name="devnagari_family_daughter">छोरी</string>
+    <string name="devnagari_family_older_brother">दाइ</string>
+    <string name="devnagari_family_younger_brother">भाइ</string>
+    <string name="devnagari_family_older_sister">दिदी</string>
+    <string name="devnagari_family_younger_sister">बहिनी</string>
+    <string name="devnagari_family_grandmother">हजुर आमा</string>
+    <string name="devnagari_family_grandfather">हजुर बाबा</string>
+    <string name="devnagari_family_adopted_son">धर्मा पुत्र</string>
+    <string name="devnagari_family_adopted_daughter">दत्तका पुत्री</string>
+
+    <!--Extended Relations-->
+    <string name="devnagari_extended_relative">सम्बन्धी</string>
+    <string name="devnagari_extended_family_spouse_father">ससुरा</string>
+    <string name="devnagari_extended_family_spouse_mother">सासु</string>
+    <string name="devnagari_extended_family_son_in_law">ज्वाइ</string>
+    <string name="devnagari_extended_family_daughter_in_law">बुहारी</string>
+    <string name="devnagari_extended_family_father_younger_brother">काका</string>
+    <string name="devnagari_extended_family_father_younger_brother_wife">काकी</string>
+    <string name="devnagari_extended_family_father_older_brother">ठूलो बुवा</string>
+    <string name="devnagari_extended_family_father_older_brother_wife">ठूलो आमा</string>
+    <string name="devnagari_extended_family_maternal_uncle">मामा</string>
+    <string name="devnagari_extended_family_maternal_aunt">माइज्यु</string>
+    <string name="devnagari_extended_family_maternal_sister_older">ठूलो आमा</string>
+    <string name="devnagari_extended_family_maternal_sister_older_husband">ठुलो बुवा</string>
+    <string name="devnagari_extended_family_maternal_sister_younger">सानिमा</string>
+    <string name="devnagari_extended_family_maternal_sister_younger_husband">सानो बुवा</string>
+    <string name="devnagari_extended_family_wife_older_brother">जेठान</string>
+    <string name="devnagari_extended_family_wife_older_brother_wife">जेठानी</string>
+    <string name="devnagari_extended_family_wife_younger_brother">साला</string>
+    <string name="devnagari_extended_family_wife_younger_sister">साली</string>
+    <string name="devnagari_extended_family_husband_younger_brother">देबर</string>
+    <string name="devnagari_extended_family_husband_younger_brother_wife">देउरानी</string>
+    <string name="devnagari_extended_family_husband_younger_sister">नन्द</string>
+    <string name="devnagari_extended_family_older_sister_husband">भिनाजु</string>
+    <string name="devnagari_extended_brother_son">भतीजा</string>
+    <string name="devnagari_extended_brother_daughter">भतीजी</string>
+    <string name="devnagari_extended_sister_son">भान्जा</string>
+    <string name="devnagari_extended_sister_daughter">भान्जी</string>
+
+    <!--Other Relations-->
+    <string name="devnagari_other_relations_preceptor">गुरु</string>
+    <string name="devnagari_other_relations_lecture">प्राध्यापक</string>
+    <string name="devnagari_other_relations_teacher">अध्यापक</string>
+    <string name="devnagari_other_relations_teacher_male">गुरु बा</string>
+    <string name="devnagari_other_relations_teacher_female">गुरु आमा</string>
+    <string name="devnagari_other_relations_student_male">छात्र</string>
+    <string name="devnagari_other_relations_student_female">छात्रा</string>
+    <string name="devnagari_other_relations_disciple">चेला</string>
+    <string name="devnagari_other_relations_friend">साथी</string>
+    <string name="devnagari_other_relations_guest">पाहुना</string>
+    <string name="devnagari_other_relations_heir">उतरअधिकारी</string>
+    <string name="devnagari_other_relations_customer">ग्रहक</string>
+    <string name="devnagari_other_relations_landlord">घरपेटी</string>
+    <string name="devnagari_other_relations_tenant">बहाले</string>
+    <string name="devnagari_other_relations_client">मुवक्कल</string>
+    <string name="devnagari_other_relations_patient">रोगी</string>
+
+    <!--Devnagari Months-->
+    <string name="devnagari_time_month_01">बैशाख</string>
+    <string name="devnagari_time_month_02">जेठ</string>
+    <string name="devnagari_time_month_03">असार</string>
+    <string name="devnagari_time_month_04">श्रावण</string>
+    <string name="devnagari_time_month_05">भदौ</string>
+    <string name="devnagari_time_month_06">आश्विन</string>
+    <string name="devnagari_time_month_07">कार्तिक</string>
+    <string name="devnagari_time_month_08">मंसिर</string>
+    <string name="devnagari_time_month_09">पुष</string>
+    <string name="devnagari_time_month_10">माघ</string>
+    <string name="devnagari_time_month_11">फाल्गुन</string>
+    <string name="devnagari_time_month_12">चैत्र</string>
+
+    <!--Ecological Seasons-->
+    <string name="devnagari_season_01">वसन्त</string>
+    <string name="devnagari_season_02">ग्रीष्म</string>
+    <string name="devnagari_season_03">वर्षा</string>
+    <string name="devnagari_season_04">शरद्</string>
+    <string name="devnagari_season_05">हेमन्त</string>
+    <string name="devnagari_season_06">शिशिर</string>
+
+    <!--Devnagari translation for b10_Phrases_MainFragment (Basic)-->
+    <string name="devnagari_phrase_where_are_you_going">तिमी कता तिर जान लागेको?</string>
+    <string name="devnagari_phrase_what_is_your_name">तिम्रो नाम के हो?</string>
+    <string name="devnagari_phrase_my_name_is">मेरो नााम .... हो</string>
+    <string name="devnagari_phrase_how_are_you_feeling">तिमीलाई कस्तो छ?</string>
+    <string name="devnagari_phrase_im_feeling_good">मलाई ठीक छ</string>
+    <string name="devnagari_phrase_are_you_coming">तिमी आउने हो?</string>
+    <string name="devnagari_phrase_yes_im_coming">हो, म आंउदै छु</string>
+    <string name="devnagari_phrase_im_coming">म आंउदै छु</string>
+    <string name="devnagari_phrase_lets_go">हामी सभै जांहु</string>
+    <string name="devnagari_phrase_come_here">यता आऊ</string>
+
+    <!--Devnagari translation for b10_Time_MainFragment (Basic)-->
+    <string name="devnagari_time_today">आज</string>
+    <string name="devnagari_time_tomorrow">भोली</string>
+    <string name="devnagari_time_yesterday">हिजो</string>
+    <string name="devnagari_time_morning">बिहान</string>
+    <string name="devnagari_time_afternoon">दिउंसो</string>
+    <string name="devnagari_time_night">रात</string>
+    <string name="devnagari_time_week">हप्ता</string>
+    <string name="devnagari_time_day">दिन</string>
+    <string name="devnagari_time_month">महिना</string>
+    <string name="devnagari_time_year">वर्ष</string>
+
+    <!--b10_Time_MainFragment Weeks-->
+    <string name="devnagari_time_sunday">आइतबार</string>
+    <string name="devnagari_time_monday">सोमबार</string>
+    <string name="devnagari_time_tuesday">मंग्लबार</string>
+    <string name="devnagari_time_wednesday">बुधबार</string>
+    <string name="devnagari_time_thursday">बिहिबार</string>
+    <string name="devnagari_time_friday">शुक्रबार</string>
+    <string name="devnagari_time_saturday">शनिबार</string>
+
+    <!--b10_Food_MainFragment General-->
+    <string name="devnagari_food_breakfast">नास्ता</string>
+    <string name="devnagari_food_lunch">खाजा</string>
+    <string name="devnagari_food_dinner">रात्री खाना</string>
+    <string name="devnagari_food_lentils">दाल</string>
+    <string name="devnagari_food_rice">चामल</string>
+    <string name="devnagari_food_vegetable">तरकारी</string>
+
+    <!--b10_Food_MainFragment Fluid-->
+    <string name="devnagari_food_water">पानी</string>
+    <string name="devnagari_food_tea">छिया</string>
+    <string name="devnagari_food_coffee">कफी</string>
+
+    <!--Vegetables-->
+    <string name="devnagari_vegetables_01">आलु </string>
+    <string name="devnagari_vegetables_02">कटहर</string>
+    <string name="devnagari_vegetables_03">करेला </string>
+    <string name="devnagari_vegetables_04">काउली</string>
+    <string name="devnagari_vegetables_05">काक्रो</string>
+    <string name="devnagari_vegetables_06">फर्सी</string>
+    <string name="devnagari_vegetables_07">कुभिण्डो </string>
+    <string name="devnagari_vegetables_08">केराउ </string>
+    <string name="devnagari_vegetables_09">ग्याँठ कोभी</string>
+    <string name="devnagari_vegetables_10">च्याउ</string>
+    <string name="devnagari_vegetables_11">चिचिन्डो </string>
+    <string name="devnagari_vegetables_12">धतुरो </string>
+    <string name="devnagari_vegetables_13">नरिवल </string>
+    <string name="devnagari_vegetables_14">पालक </string>
+    <string name="devnagari_vegetables_15">पिंडालु, कर्कलो </string>
+    <string name="devnagari_vegetables_16">बन्दागोबी </string>
+    <string name="devnagari_vegetables_17">बैगन </string>
+    <string name="devnagari_vegetables_18">रामतोरिया </string>
+    <string name="devnagari_vegetables_19">मकै </string>
+    <string name="devnagari_vegetables_20">मूला </string>
+    <string name="devnagari_vegetables_22">तरुल </string>
+    <string name="devnagari_vegetables_23">सकरकन्द </string>
+    <string name="devnagari_vegetables_24">सलगम </string>
+    <string name="devnagari_vegetables_25">सलाद पात </string>
+    <string name="devnagari_vegetables_26">सिमी </string>
+    <string name="devnagari_vegetables_27">सुठनी </string>
+    <string name="devnagari_vegetables_21">फर्सी</string>
+
+    <!--Fruits-->
+    <string name="devnagari_fruits_01">सुन्तला</string>
+    <string name="devnagari_fruits_02">स्याउ  </string>
+    <string name="devnagari_fruits_03">लिची  </string>
+    <string name="devnagari_fruits_04">मौसमी  </string>
+    <string name="devnagari_fruits_05">आँप </string>
+    <string name="devnagari_fruits_06">अंगुर</string>
+    <string name="devnagari_fruits_07">बदाम  </string>
+    <string name="devnagari_fruits_08">नीबू, ज्यामिर </string>
+    <string name="devnagari_fruits_09">तरबुज </string>
+    <string name="devnagari_fruits_10">ज्यामीर </string>
+    <string name="devnagari_fruits_11">घ्याम्पे ऐंसेलु जामुन  </string>
+    <string name="devnagari_fruits_12">गाजर </string>
+    <string name="devnagari_fruits_13">खुपानी, अंजीर  </string>
+    <string name="devnagari_fruits_14">खजूर </string>
+    <string name="devnagari_fruits_15">कटहर  </string>
+    <string name="devnagari_fruits_16">उखु </string>
+    <string name="devnagari_fruits_17">अम्बा, </string>
+    <string name="devnagari_fruits_18">अनानास, भुइकटहर  </string>
+    <string name="devnagari_fruits_19">आरु </string>
+    <string name="devnagari_fruits_20">आलुबखडा</string>
+    <string name="devnagari_fruits_21">काफल </string>
+    <string name="devnagari_fruits_22">केरा </string>
+    <string name="devnagari_fruits_23">पपिता, मेवा </string>
+
+
+    <!--Spices and Nuts-->
+    <string name="devnagari_food_other_01">अदुवा  </string>
+    <string name="devnagari_food_other_02">ओखर  </string>
+    <string name="devnagari_food_other_03">करवीर  </string>
+    <string name="devnagari_food_other_04">कागती </string>
+    <string name="devnagari_food_other_05">काजु  </string>
+    <string name="devnagari_food_other_06">खुसानी  </string>
+    <string name="devnagari_food_other_07">चिनिया बदाम  </string>
+    <string name="devnagari_food_other_08">जापानी बयर  </string>
+    <string name="devnagari_food_other_09">जैतुन  </string>
+    <string name="devnagari_food_other_10">धनिया  </string>
+    <string name="devnagari_food_other_11">नीलकमल  </string>
+    <string name="devnagari_food_other_12">प्याज  </string>
+    <string name="devnagari_food_other_13">बकाइनो  </string>
+    <string name="devnagari_food_other_14">बदाम  </string>
+    <string name="devnagari_food_other_15">मुँगफली  </string>
+    <string name="devnagari_food_other_16">सरीफा  </string>
+    <string name="devnagari_food_other_17">साबुदाना  </string>
+    <string name="devnagari_food_other_18">सिंघाडा  </string>
+
+
+    <!--Flowers-->
+    <string name="devnagari_flowers_01">कमल </string>
+    <string name="devnagari_flowers_02">ओखर  </string>
+    <string name="devnagari_flowers_03">करवीर  </string>
+    <string name="devnagari_flowers_04">गुल बहार  </string>
+    <string name="devnagari_flowers_05">गुलाफ  </string>
+    <string name="devnagari_flowers_06">गोदावरी फूल  </string>
+    <string name="devnagari_flowers_07">चमेली  </string>
+    <string name="devnagari_flowers_08">चम्पा  </string>
+    <string name="devnagari_flowers_09">धतुरा  </string>
+    <string name="devnagari_flowers_10">लज्जावती झार  </string>
+    <string name="devnagari_flowers_11">सयपत्री फुल  </string>
+    <string name="devnagari_flowers_12">सिमल  </string>
+
+
+    <!--Animals-->
+    <string name="devnagari_animals_01">ऊट  </string>
+    <string name="devnagari_animals_02">कस्तुरी मृग</string>
+    <string name="devnagari_animals_03">भालु </string>
+    <string name="devnagari_animals_04">भेडा  </string>
+    <string name="devnagari_animals_05">भैँसी  </string>
+    <string name="devnagari_animals_06">मुसा  </string>
+    <string name="devnagari_animals_07">मृग, हरिण </string>
+    <string name="devnagari_animals_08">लंगुर, ढेडू </string>
+    <string name="devnagari_animals_09">लोखर्के  </string>
+    <string name="devnagari_animals_10">साँढे </string>
+    <string name="devnagari_animals_11">स्याल  </string>
+    <string name="devnagari_animals_12">सिंह </string>
+    <string name="devnagari_animals_13">सुँगुर  </string>
+    <string name="devnagari_animals_14">हात्ती  </string>
+    <string name="devnagari_animals_15">कुकुर </string>
+    <string name="devnagari_animals_16">खच्चर </string>
+    <string name="devnagari_animals_17">खरायो  </string>
+    <string name="devnagari_animals_18">गधा </string>
+    <string name="devnagari_animals_19">गाई </string>
+    <string name="devnagari_animals_20">गैंडा </string>
+    <string name="devnagari_animals_21">गोरु  </string>
+    <string name="devnagari_animals_22">घोडा </string>
+    <string name="devnagari_animals_23">चितुवा, कालो बाघ  </string>
+    <string name="devnagari_animals_24">दुम्सी  </string>
+    <string name="devnagari_animals_25">बाघ </string>
+    <string name="devnagari_animals_26">बाह्र सिगा  </string>
+    <string name="devnagari_animals_27">बाँदर </string>
+    <string name="devnagari_animals_28">बिरालो </string>
+    <string name="devnagari_animals_29">ब्वाँसो </string>
+
+
+    <!--Birds-->
+    <string name="devnagari_birds_01">कठफोरा </string>
+    <string name="devnagari_birds_02">काग </string>
+    <string name="devnagari_birds_03">कालो कौवा  </string>
+    <string name="devnagari_birds_04">कुखुरा </string>
+    <string name="devnagari_birds_05">कुखुराका चल्ला  </string>
+    <string name="devnagari_birds_06">कोइली</string>
+    <string name="devnagari_birds_07">गरुड </string>
+    <string name="devnagari_birds_08">गिद्ध </string>
+    <string name="devnagari_birds_09">र्गौथली  </string>
+    <string name="devnagari_birds_10">चल्ला </string>
+    <string name="devnagari_birds_11">चमेरो </string>
+    <string name="devnagari_birds_12">जुरेली</string>
+    <string name="devnagari_birds_13">ढुक्कुर </string>
+    <string name="devnagari_birds_14">तित्रा </string>
+    <string name="devnagari_birds_15">धोबी चरा  </string>
+    <string name="devnagari_birds_16">परेवा </string>
+    <string name="devnagari_birds_17">बर्टाई </string>
+    <string name="devnagari_birds_18">बाज </string>
+    <string name="devnagari_birds_19">भङ्गेरा </string>
+    <string name="devnagari_birds_20">मुजुर </string>
+    <string name="devnagari_birds_21">लाटोकोसेरो </string>
+    <string name="devnagari_birds_22">राजहाँस </string>
+    <string name="devnagari_birds_23">सारस </string>
+    <string name="devnagari_birds_24">सुग </string>
+    <string name="devnagari_birds_25">हाँस </string>
+    <string name="devnagari_birds_26">डाँफे </string>
+
+</resources>
