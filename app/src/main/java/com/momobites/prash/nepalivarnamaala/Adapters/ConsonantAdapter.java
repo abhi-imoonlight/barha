@@ -24,6 +24,10 @@ public class ConsonantAdapter extends ArrayAdapter<ConsonantModel> {
 
     /** Resource ID for the background color for this list of words */
     private int mColorResourceId;
+
+    /**
+     * Hold the reference to the list of Barhakhari consonants.
+     */
     private ArrayList<ConsonantModel> mLetters;
 
 
@@ -82,12 +86,32 @@ public class ConsonantAdapter extends ArrayAdapter<ConsonantModel> {
         return listItemView;
     }
 
+    /**
+     * Ps. here the ternary operator is used for brevity. You can translate that to if else if needed.
+     * exp ? statement1 : statement2
+     * this is equivalent to -
+     * if (exp) {
+     *     statement1;
+     * } else {
+     *     statement2;
+     * }
+     */
+
+    /**
+     * Override the get Item and return the item from teh saved list at the expected position.
+     * @param position - the position of the adapter.
+     * @return -
+     */
     @Nullable
     @Override
     public ConsonantModel getItem(int position) {
         return mLetters == null ? null : mLetters.get(position);
     }
 
+    /**
+     * Override the get count to correctly return teh count of the list.
+     * @return -
+     */
     @Override
     public int getCount() {
         return mLetters == null ? 0 : mLetters.size();
