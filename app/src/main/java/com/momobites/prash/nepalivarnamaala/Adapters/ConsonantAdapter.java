@@ -2,15 +2,14 @@ package com.momobites.prash.nepalivarnamaala.Adapters;
 
 import android.content.Context;
 import android.content.Intent;
+import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.momobites.prash.nepalivarnamaala.R;
 
@@ -25,6 +24,7 @@ public class ConsonantAdapter extends ArrayAdapter<ConsonantModel> {
 
     /** Resource ID for the background color for this list of words */
     private int mColorResourceId;
+    private ArrayList<ConsonantModel> mLetters;
 
 
     /**
@@ -36,6 +36,7 @@ public class ConsonantAdapter extends ArrayAdapter<ConsonantModel> {
     public ConsonantAdapter (Context context, ArrayList<ConsonantModel> letters, int colorResourceId) {
         super(context, 0, letters);
         mColorResourceId = colorResourceId;
+        mLetters = letters;
     }
 
     @Override
@@ -81,4 +82,14 @@ public class ConsonantAdapter extends ArrayAdapter<ConsonantModel> {
         return listItemView;
     }
 
+    @Nullable
+    @Override
+    public ConsonantModel getItem(int position) {
+        return mLetters == null ? null : mLetters.get(position);
+    }
+
+    @Override
+    public int getCount() {
+        return mLetters == null ? 0 : mLetters.size();
+    }
 }

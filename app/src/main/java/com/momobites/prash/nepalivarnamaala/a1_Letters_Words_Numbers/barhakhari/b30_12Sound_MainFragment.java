@@ -1,11 +1,8 @@
 package com.momobites.prash.nepalivarnamaala.a1_Letters_Words_Numbers.barhakhari;
 
 import android.os.Bundle;
-import android.support.v4.view.ViewGroupCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.momobites.prash.nepalivarnamaala.R;
@@ -44,5 +41,8 @@ public class b30_12Sound_MainFragment extends AppCompatActivity {
 
         // Set the adapter onto the view pager
         viewPager.setAdapter(fragment);
+
+        // Should only change the current item after setting the adapter.
+        viewPager.setCurrentItem(position);
     }
 }
